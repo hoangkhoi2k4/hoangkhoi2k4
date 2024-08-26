@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khởi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hoàng Văn Khởi
 ========================================================================================================================================
 I like to live leisurely
 ---------------------------------
 
 * 🌍  I'm based in Viet Nam
-* 👨‍🎓  Studied at Posts and Telecommunications Institute of Technology (PTIT)
+* 👨‍🎓  Studing at Posts and Telecommunications Institute of Technology (PTIT)
 * 🖥️  Facebook me [https://www.facebook.com/profile.php?id=100082106448006]
 * ✉️  You can contact me at [khoihv1@gmail.com]
 
