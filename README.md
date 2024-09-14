@@ -9,7 +9,7 @@ I like to live leisurely
 * ✉️  You can contact me at [khoihv1@gmail.com]
 
 <a href="https://www.github.com/namnguyenthanhwork" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/namnguyenthanhwork?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
+src="https://img.shields.io/github/followers/hoangkhoi2k4?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
 
 ### Skills
 
