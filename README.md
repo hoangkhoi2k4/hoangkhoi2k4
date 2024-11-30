@@ -8,7 +8,7 @@ I like to live leisurely
 * 🖥️  Facebook me <a href="https://www.facebook.com/profile.php?id=100082106448006"><img src = "https://e7.pngegg.com/pngimages/213/828/png-clipart-facebook-logo-facebook-messenger-logo-social-media-icon-facebook-icon-blue-text-thumbnail.png" width="35px" height="24px"> </a>
 * ✉️  You can contact me at [khoihv1@gmail.com]
 
-<a href="https://www.github.com/namnguyenthanhwork" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/hoạngkhoi2k4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hoangkhoi2k4?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
 
 ### Skills
